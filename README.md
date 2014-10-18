@@ -6,7 +6,7 @@ SSSProxy is a socks interceptor proxy. It was originally created to work along w
 This scirpt implements the very basic of a proxy server and it can be customised to extend its functionalities. It currently only support TCP traffic (SocksV4).
 
 The following is an example of the the SSSProxy traffic view:
-'''
+```
 Mon Apr 22 20:45:48 2013        127.0.0.1:36699 > 4.2.2.2:53
 00 25 E3 B2 01 00 00 01 00 00 00 00 00 00 08 6D .%.............m
 63 75 70 64 61 74 65 06 74 75 6D 62 6C 72 03 63 cupdate.tumblr.c
@@ -28,6 +28,6 @@ Mon Apr 22 20:46:10 2013        127.0.0.1:36703 > 4.2.2.2:53
 00 25 9E DA 01 00 00 01 00 00 00 00 00 00 08 6D .%.............m
 63 75 70 64 61 74 65 06 74 75 6D 62 6C 72 03 63 cupdate.tumblr.c
 6F 6D 00 00 01 00 01                            om.....
-'''
+```
 
 
