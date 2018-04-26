@@ -1,4 +1,4 @@
-Super Spunky Socks Proxy v0.1
+SSSocks Proxy v0.1
 =============================
 
 SSSProxy is a socks interceptor proxy. It was originally created to work along with tsocks (or socat,depending on the circumnsances) and to allow interception and loggin of TCP data in a nice hexadecimal and ASCII view. 
